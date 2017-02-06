@@ -16,7 +16,7 @@ import bell.cart.persistence.entity.ShoppingEntity;
 public abstract class AbstactDBEntityManager {
 
 	private static final String BELLTEST = "BELLTEST";
-	private static EntityManager entityManager;s
+	private static EntityManager entityManager;
 
 	/**
 	 * Utility method to populate the database with some object. This was done
