@@ -7,7 +7,7 @@ import javax.persistence.Persistence;
 import bell.cart.persistence.entity.ShoppingEntity;
 
 /**
- * Abstract class that contain the entity manager. It initialize the
+ * Base Abstract class that contain the entity manager. It initialize the
  * EntityManager when the user does it's first operation
  * 
  * @author pa
@@ -16,7 +16,7 @@ import bell.cart.persistence.entity.ShoppingEntity;
 public abstract class AbstactDBEntityManager {
 
 	private static final String BELLTEST = "BELLTEST";
-	private static EntityManager entityManager;
+	private static EntityManager entityManager;s
 
 	/**
 	 * Utility method to populate the database with some object. This was done
