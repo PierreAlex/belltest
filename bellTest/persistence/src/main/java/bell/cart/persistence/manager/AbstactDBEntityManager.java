@@ -86,7 +86,7 @@ public abstract class AbstactDBEntityManager {
 	}
 
 	/**
-	 * The entityManager getter based on the singleton pattern. On first call it
+	 * The entityManager getter inspired on the singleton pattern. On first call it
 	 * will set the entity manager then use it afterward
 	 */
 	public EntityManager getEntityManager() {
