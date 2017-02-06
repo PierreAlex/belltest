@@ -5,8 +5,7 @@
 	<artifactId>web</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>web Maven Webapp</name>
-	<url>http://maven.apache.org</url>
+	<name>web</name>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
 		<dependency>
