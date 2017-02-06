@@ -20,7 +20,7 @@ public abstract class AbstactDBEntityManager {
 
 	/**
 	 * Utility method to populate the database with some object. This was done
-	 * that way for the purpose of this exercice. To add some data and
+	 * that way for the purpose of this exercice : to add some data will
 	 * facilitate the usability of this application
 	 */
 	private void populateDataBase(EntityManager manager) {
