@@ -29,7 +29,6 @@ public class ItemDescriptionServlet extends HttpServlet {
 	private static final String TD = "<td>";
 	private static final String P = "<p>";
 	private static final String TR = "<tr>\n";
-	private static final String TABLE = "<table>\n";
 
 	private static final long serialVersionUID = 1L;
 

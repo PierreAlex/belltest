@@ -20,18 +20,6 @@ import bell.cart.persistence.manager.ShoppingEntityManager;
  */
 public class AddToCartServlet extends HttpServlet {
 
-	private static final String SUCCESS = "Success";
-	private static final String TABLE2 = "</table>";
-	private static final String DIV2 = "</div>";
-	private static final String DIV = "<div>";
-	private static final String TR2 = "</tr>";
-	private static final String TD2 = "</td>";
-	private static final String P2 = "</p>";
-	private static final String TD = "<td>";
-	private static final String P = "<p>";
-	private static final String TR = "<tr>\n";
-	private static final String TABLE = "<table>\n";
-
 	private static final long serialVersionUID = 1L;
 
 	CartEntityManager cartManager;
